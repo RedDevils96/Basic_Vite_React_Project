@@ -1,3 +1,7 @@
 npm create vite@latest my-react-app
 
 my-react-app is the name of your app
+
+Then do 
+
+npm run dev
